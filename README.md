@@ -114,3 +114,10 @@
 <hr>
 
 </details>
+
+<details>
+  <summary><b>Python</b></summary>
+  <br/>
+ <hr>
+
+ </details>
