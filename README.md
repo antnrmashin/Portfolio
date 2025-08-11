@@ -116,7 +116,7 @@
 </details>
 
 <details>
-  <summary><b>Python</b></summary>
+  <summary><b>Exel</b></summary>
   <br/>
  <hr>
 
