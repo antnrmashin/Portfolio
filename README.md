@@ -108,7 +108,7 @@
  <hr>
 
 
-## [Журнал 2025(самостоятельный проект](https://github.com/antnrmashin/Portfolio/tree/main/exel)
+## [Журнал 2025(самостоятельный проект)](https://github.com/antnrmashin/Portfolio/tree/main/exel)
 
 Здесь представлен файл с разрешением .xlsx и его описание
 
