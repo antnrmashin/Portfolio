@@ -103,7 +103,7 @@
 </details>
 
 <details>
-  <summary><b>Exel</b></summary>
+  <summary><b>Excel</b></summary>
   <br/>
  <hr>
 
